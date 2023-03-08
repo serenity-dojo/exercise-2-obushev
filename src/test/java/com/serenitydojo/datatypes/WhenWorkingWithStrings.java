@@ -11,7 +11,7 @@ public class WhenWorkingWithStrings {
     public void convertToLowerCase() {
         String bookTitle = "The Cat In The Hat";
 
-        // String lowerCaseTitle = "";
+        // String  lowerCaseTitle = "";
         String lowerCaseTitle = bookTitle.toLowerCase();
 
         // TODO: Convert the book title to lower case and assign it to the lowerCaseTitle variable
